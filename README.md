@@ -7,7 +7,7 @@ sebastien.renaut@gmail.com
 
 please cite is "Renaut S, Nolte AW, Bernatchez L (2010) Mining transcriptome sequences towards identifying adaptive single nucleotide polymorphisms in lake whitefish species pairs (Coregonus spp Salmonidae). Molecular Ecology, 19, 115–131." if you are going to use this. This is were the paper for which I originally developped the code, although I have used it in several other papers since.
 
-This scripts does five main things. But use is at your own risks!
+This script (dnds.R) does five main things. But use is at your own risks!
 It should work fine on Linux or Mac. Probably not on a PC.
 
 1. It annotates all the reference sequences with "snp_table" (here the SNP table contains the two polymorphic alleles).
